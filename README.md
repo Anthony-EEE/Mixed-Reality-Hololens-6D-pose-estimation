@@ -6,7 +6,7 @@
 
 This project aims to use Azure Object Anchors and Hololens to track the physical world objects and estimate their 6Dof pose (Translation and rotation).
 Then we evaluate the method to provide better DL 6Dof pose estimation to achieve better performance on the benchmark.
-
+![](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/Images/msft-hololens-2.jpeg)
 ## Video Demonstration
 YouTube link of our video: upload later......
 
