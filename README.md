@@ -25,6 +25,7 @@ YouTube link of our video: upload later......
 
 ## Dataset building:
 * [YCB mesh model](https://www.ycbbenchmarks.com/)
+* YCB were converted to .ou models
 
 ### Setting
 
