@@ -36,6 +36,9 @@ YouTube link of our video: upload later......
 * Object Observer to track object using 3D assets with .ou format
 * Align detected object to build correspondances
 * Output 6D pose estimation.
+## Evaluation pipeline:
+* YCB benchmark for evaluation recall.
+
 ## Pipeline
 
 ## Configuration
