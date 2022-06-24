@@ -25,7 +25,7 @@ YouTube link of our video: upload later......
 
 ## Dataset building:
 * [YCB mesh model](https://www.ycbbenchmarks.com/)
-* YCB were converted to .ou models
+* YCB 3D mesh models were converted to .ou models following instructions in [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
 
 ### Setting
 
