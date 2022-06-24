@@ -31,8 +31,11 @@ YouTube link of our video: upload later......
 * YCB 3D mesh models were converted to .ou models following instructions in [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
 ### RGB-D datasets
 
-## Setting
-
+## Experiment 1 Setting:
+* Hololens .sln App implementation
+* Object Observer to track object using 3D assets with .ou format
+* Align detected object to build correspondances
+* Output 6D pose estimation.
 ## Pipeline
 
 ## Configuration
