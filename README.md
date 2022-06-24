@@ -24,7 +24,7 @@ YouTube link of our video: upload later......
   * 3D model builder software: AutoCAD/Fusion 360/Blender......
 
 ## Dataset building:
-* ![YCB mesh model](https://www.ycbbenchmarks.com/)
+* [YCB mesh model](https://www.ycbbenchmarks.com/)
 
 ### Setting
 
