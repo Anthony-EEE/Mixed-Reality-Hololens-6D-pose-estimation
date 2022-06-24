@@ -20,7 +20,7 @@ YouTube link of our video: upload later......
   * [Windows 10 Pro](https://www.microsoft.com/en-gb/d/windows-10-pro/df77x4d43rkt?activetab=pivot:overviewtab)
   * [Unity > 2019.4](https://unity3d.com/get-unity/download/archive) 
   * [Visual Studio > 2019](https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes)
-    * Make sure you install (Azure development, .Net desktop development, [Universal Windows Platform development](https://visualstudio.microsoft.com/en-gb/vs/features/universal-windows-platform/), Windows 10 SDK > 10.0.18362.0, Game development with Unity)
+    * Make sure you install (Azure development, .Net desktop development, [Universal Windows Platform development](https://visualstudio.microsoft.com/en-gb/vs/features/universal-windows-platform/), Windows 10 SDK > 10.0.18362.0, Game development with Unity, [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
   * Hololens emulator with latest version
   * 3D model builder software: AutoCAD/Fusion 360/Blender......
 
