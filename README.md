@@ -2,7 +2,7 @@
  This is Final year project to research Mixed-Reality and the function of 6D pose estimation of Hololens. Then evaluate and improve the method of 6D pose estimation.
 
 
-# 6D-pose estimation evaluation of Hololens
+## 6D-pose estimation evaluation of Hololens
 
 This project aims to use Azure Object Anchors and Hololens to track the physical world objects and estimate their 6Dof pose (Translation and rotation).
 Then we evaluate the method to provide better DL 6Dof pose estimation to achieve better performance on the benchmark.
@@ -17,9 +17,10 @@ YouTube link of our video: upload later......
   * Windows 10 system laptop/computor with GPU and RAM > 8G
 
   ## Software
-  * Unity > 2019.4
-  * Visual Studio > 2019
-    * Make sure you install (Azure development, .Net desktop development, Universal Windows Platform development, Windows 10 SDK > 10.0.18362.0, Game development with Unity)
+  * [Windows 10 Pro](https://www.microsoft.com/en-gb/d/windows-10-pro/df77x4d43rkt?activetab=pivot:overviewtab)
+  * [Unity > 2019.4](https://unity3d.com/get-unity/download/archive) 
+  * [Visual Studio > 2019](https://docs.microsoft.com/en-gb/visualstudio/releases/2019/release-notes)
+    * Make sure you install (Azure development, .Net desktop development, [Universal Windows Platform development](https://visualstudio.microsoft.com/en-gb/vs/features/universal-windows-platform/), Windows 10 SDK > 10.0.18362.0, Game development with Unity)
   * Hololens emulator with latest version
   * 3D model builder software: AutoCAD/Fusion 360/Blender......
 
