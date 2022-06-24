@@ -24,7 +24,7 @@ YouTube link of our video: upload later......
   * 3D model builder software: AutoCAD/Fusion 360/Blender......
 
 ## Dataset building:
-* Download YCB mesh model from BOP benchmark
+* Download ![YCB mesh model](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/tree/main/Dataset/3D_model) from BOP benchmark
 
 ### Setting
 
