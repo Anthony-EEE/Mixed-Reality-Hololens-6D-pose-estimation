@@ -28,7 +28,7 @@ YouTube link of our video: upload later......
 ## Dataset building:
 ### 3D model dataset
 * [YCB mesh model](https://www.ycbbenchmarks.com/)
-* YCB 3D mesh models were converted to .ou models following instructions in [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
+* YCB 3D mesh models were converted to .ou models following instructions of [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
 ### RGB-D datasets
 
 ## Experiment 1 Setting:
