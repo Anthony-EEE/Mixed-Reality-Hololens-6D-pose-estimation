@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConversionQuickstart": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\11424\\Documents\\3dmodel\\010_potted_meat_can\\pottedmeat.obj"
+    }
+  }
+}

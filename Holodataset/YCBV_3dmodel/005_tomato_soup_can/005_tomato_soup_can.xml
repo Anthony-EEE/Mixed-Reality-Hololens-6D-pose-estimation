@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<model version="1">
+    <geom type="mesh" sx="1" sy="1" sz="1" tx="0" ty="0" tz="0" rx="0" ry="0" rz="0" red="200" green="40" blue="60" meshFile="textured.obj" />
+</model>
+<OU model>
+FD53AD73-2A60-4132-A586-F361AABC95A1
+0-10 横
+0664F0BD-7459-4465-A1EE-CE70CF843DA3
+-100 横
+A08EC938-A6D6-40DF-B083-B26E76193165
+00-1竖
+cannot be tracked because of the small size
+
+
