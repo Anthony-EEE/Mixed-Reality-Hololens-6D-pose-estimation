@@ -44,3 +44,30 @@ YouTube link of our video: upload later......
 ## Configuration
 
 
+
+
+  ```
+  bop
+  │ 
+  └───datasets 
+  │   │
+  │   └───ycbv
+  │   │   │
+  │   │   └───models 
+  │   │   └───models_eval
+  │   │   └───models_fine
+  │   │   └───test
+  │   │   │   └───'scene ID'
+  │   │   │       └───depth
+  │   │   │       └───mask
+  │   │   │       └───mask_visib
+  │   │   │       └───rgb
+  │   │   │       └───scene_camera.json
+  │   │   │       └───scene_gt.json
+  │   │   │       └───scene_gt_info.json
+  │   │   └───camera.json
+  │   │   └───dataset_info.md
+  │   │   └───test_targets_bop19.json
+  │   └───tless
+  │   └───lm
+  ```
