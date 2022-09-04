@@ -27,25 +27,10 @@ YouTube link of our video: upload later......
 
 ## Dataset building:
 ### 3D model dataset
-* [YCB mesh model](https://www.ycbbenchmarks.com/)
-* YCB 3D mesh models were converted to .ou models following instructions of [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
-### RGB-D datasets
-
-## Experiment 1 Setting:
-* Hololens .sln App implementation
-* Object Observer to track object using 3D assets with .ou format
-* Align detected object to build correspondances
-* Output 6D pose estimation.
-## Evaluation pipeline:
-* YCB benchmark for evaluation recall.
-
-## Pipeline
-
-## Configuration
-
-
-
-
+* [YCB mesh model](https://www.ycbbenchmarks.com/): YCB 3D mesh models using fusion360 to scale unit and then models were converted to .ou models following instructions of [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
+### RGB images collecting tool install on HOlolens2:
+* [STreamRecorderApp](https://github.com/microsoft/HoloLens2ForCV)
+### (BOP) datasets for EPOS
   ```
   bop
   │ 
@@ -71,3 +56,17 @@ YouTube link of our video: upload later......
   │   └───tless
   │   └───lm
   ```
+## [Software Instructions](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/INstructions.pdf):
+* AOAMRTKApp
+* StreamREcorderApp
+
+## Evaluation methods:
+* AOAMRTKApp estimate 6D pose of YCB-V objects
+* StreamREcorder capture YCB-V objects' RGB images
+* [EPOS](https://github.com/thodan/epos) estimate 6D pose of YCB-V objects
+* Compare by visualising results
+* Choose best performance of EPOS as ground-truth' and use ADI metric to evaluate HOlolens2
+
+##Results
+[Numerical results](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/concat_result.csv)
+![Visualised reults example](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/Images/crackerbox.jpg)
