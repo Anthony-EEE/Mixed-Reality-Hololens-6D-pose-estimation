@@ -67,6 +67,6 @@ YouTube link of our video: upload later......
 * Compare by visualising results
 * Choose best performance of EPOS as ground-truth' and use ADI metric to evaluate HOlolens2
 
-##Results
+##Results:
 [Numerical results](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/concat_result.csv)
 ![Visualised reults example](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/blob/main/Images/crackerbox.jpg)
