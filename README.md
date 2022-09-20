@@ -26,7 +26,7 @@ YouTube link of our video: upload later......
 
 ## Dataset building:
 ### 3D model dataset
-* [YCB mesh model](https://www.ycbbenchmarks.com/): YCB 3D mesh models using fusion360 to scale unit and then models were converted to .ou models following instructions of [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
+* [YCB mesh model](https://www.ycbbenchmarks.com/): YCB 3D mesh models using fusion360 to scale unit and then [models](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/tree/main/Holodataset) were converted to .ou models following instructions of [Azure Object Anchor](https://docs.microsoft.com/en-us/azure/object-anchors/quickstarts/get-started-model-conversion).
 ### RGB images collecting tool install on HOlolens2:
 * [STreamRecorderApp](https://github.com/microsoft/HoloLens2ForCV)
 ### (BOP) datasets for EPOS
