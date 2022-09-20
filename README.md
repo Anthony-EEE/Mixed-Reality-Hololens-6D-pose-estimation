@@ -62,7 +62,7 @@ YouTube link of our video: upload later......
 ## Evaluation methods:
 * AOAMRTKApp estimate 6D pose of YCB-V objects
 * StreamREcorder capture YCB-V objects' RGB images
-* Prepare parameters for EPOS through Matlab scripts via [Camera](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/tree/main/Camera)
+* Prepare parameters for EPOS through Matlab and Colab scripts via [Camera](https://github.com/Anthony-EEE/Mixed-Reality-Hololens-6D-pose-estimation/tree/main/Camera)
 * [EPOS](https://github.com/thodan/epos) estimate 6D pose of YCB-V objects
 * Compare by visualising results
 * Choose best performance of EPOS as ground-truth' and use ADI metric to evaluate HOlolens2
